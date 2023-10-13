@@ -1,0 +1,10 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  bmp_editor.cpp
+D:\ГиМС\Лаба 1\bmp_editor\bmp_editor.cpp(390,38): warning C4244: =: преобразование "DWORD" в "CHAR", возможна потеря данных
+D:\ГиМС\Лаба 1\bmp_editor\bmp_editor.cpp(394,29): warning C4244: =: преобразование "WORD" в "BYTE", возможна потеря данных
+D:\ГиМС\Лаба 1\bmp_editor\bmp_editor.cpp(391,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ГиМС\Лаба 1\bmp_editor\bmp_editor.cpp(444,51): warning C4244: return: преобразование "double" в "BYTE", возможна потеря данных
+D:\ГиМС\Лаба 1\bmp_editor\bmp_editor.cpp(451,14): warning C4101: max: неиспользованная локальная переменная
+D:\ГиМС\Лаба 1\bmp_editor\bmp_editor.cpp(451,9): warning C4101: min: неиспользованная локальная переменная
+bmp_editor.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  bmp_editor.vcxproj -> D:\ГиМС\Лаба 1\bmp_editor\Debug\bmp_editor.exe
